@@ -4,4 +4,5 @@
 2. CIP's cost too much
 3. CIP's are unconstitutional
 4. CIP's are easily manipulated
-5. CIP's allow for uninformed citizens to make decisions
+5. CIP's target uninformed citizens.
+   1. Even if citizens make a bad decision, Congress can still veto it. 
