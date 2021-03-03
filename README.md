@@ -1,7 +1,7 @@
 # debatecases-example
 An example git repository of debate cases.
 
-## Format: 
+## Format 
 
 * Year
   * Case
@@ -26,7 +26,7 @@ An example git repository of debate cases.
         * Markdown source
         * pdf
  
- ## Notes:
+ ## Notes
  
  The list of points, rebuttals, and the example case will be in bullet points. This makes for easier reading while delivering a speech.  
  Cases are organized by year because evidence can change and be outdated.
