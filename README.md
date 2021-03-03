@@ -32,4 +32,5 @@ Format:
  Cases are organized by year because evidence can change and be outdated.
  
  Why Markdown?
+ 
  Markdown is a simple markup language very similar to normal text. This way text formatting will be simple.
