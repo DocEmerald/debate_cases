@@ -33,4 +33,4 @@ An example git repository of debate cases.
  
  
  **Why Markdown?**  
- Markdown is a simple markup language very similar to normal text. This way text formatting will be simple.
+ Markdown is a simple markup language very similar to normal text. This makes text formatting simple.
