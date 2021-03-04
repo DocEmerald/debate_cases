@@ -3,7 +3,6 @@ An example git repository of debate cases.
 
 ## Format 
 
-* Year
   * Case
     * Prop
       * List of points + evidence
