@@ -28,7 +28,6 @@ An example git repository of debate cases.
  ## Notes
  
  The list of points, rebuttals, and the example case will be in bullet points. This makes for easier reading while delivering a speech.  
- Cases are organized by year because evidence can change and be outdated.
  
  
  **Why Markdown?**  
