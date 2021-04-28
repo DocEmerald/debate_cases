@@ -1,5 +1,5 @@
-# debatecases-example
-An example git repository of debate cases.
+# debate_cases
+A git repository of debate cases.
 
 ## Format 
 
