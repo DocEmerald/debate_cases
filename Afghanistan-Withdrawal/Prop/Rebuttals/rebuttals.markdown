@@ -7,5 +7,5 @@
    + President Ghani said decreasing the number of U.S. troops based in Afghanistan would have “no material impact” on the country’s “ability and willingness to move forward” in improving the security situation. His national security advisor told a Council on Foreign Relations audience that he believed military victory was attainable for the Afghan government, even should U.S. troops withdraw. 
    + Brookings: "The U.S. retains leverage with the Taliban—including maintaining economic aid to the country. For that reason, the Taliban are aware they need to cater to the preferences of the United States to some extent." 
    + According to The Institute of War and Peace Studies, an overwhelming 80% of Afghans surveyed said a political solution was the only way to bring about an end to fighting and said that they would like to see a full withdrawal of US forces. 
-1. US military presence is helping foster democracy
+3. US military presence is helping foster democracy
    + Pulling out is actually more democratic, since by staying there we are imposing our own values on another country, which we have no right to do
