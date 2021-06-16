@@ -1,3 +1,5 @@
+# CIP's Opp Points
+
 1. **CIP's give voters a voice in creating new laws**
    1. **Reasoning:** 
       1. They give voters power to make laws that matter to them, and will improve everyone's lives.
